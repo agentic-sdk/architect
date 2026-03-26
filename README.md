@@ -18,38 +18,6 @@ We are designing an **automated system** that uses Agentic AI to handle the full
 
 ---
 
-##  Documentation
-
-### 📋 Project Management
-- [[Project Charter]]
-- [[Team Roles & Responsibilities]]
-- [[Meeting Notes]]
-- [[Timeline & Milestones]]
-
-### 🏛️ Architecture & Design
-- [[System Architecture Overview]]
-- [[Agent Design & Responsibilities]]
-- [[Pipeline Specification]]
-- [[API & Interface Design]]
-- [[Technology Selection]]
-
-### 📝 Requirements
-- [[Functional Requirements]]
-- [[Non-Functional Requirements]]
-- [[Use Cases & Scenarios]]
-
-### 🔬 Research & References
-- [[Agentic AI Literature Review]]
-- [[On-Device AI Constraints & Considerations]]
-- [[Competitor & Related Work Analysis]]
-
-### 🚀 Prototype
-- [[PoC Implementation Guide]]
-- [[Demo Scenarios]]
-- [[Test Results & Evaluation]]
-
----
-
 ## 👥 Team 17
 
 | Member | Role | Contact |
@@ -76,7 +44,7 @@ We are designing an **automated system** that uses Agentic AI to handle the full
 
 ---
 
-## 🛠️ Getting Started
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/agentic-sdk/architect.git
