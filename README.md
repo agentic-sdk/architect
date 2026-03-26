@@ -1,28 +1,59 @@
-# 🏗️ Architect
+# 🏗️ Architect Wiki
 
-> Agentic AI-driven system for automating on-device AI SDK development
+> 🤖 Agentic AI-driven system for automating on-device AI SDK development
 
-## About
+Welcome to the **Team 17** project wiki! This is the central knowledge base for our SW Architect training course team project.
 
-This repository is a **Team Project** for the SW Architect training course. The goal is to design an automated system that leverages Agentic AI to streamline the entire on-device AI SDK development lifecycle — from design and code generation to testing and optimization.
+---
 
-## Project Goal
+## 👋 About This Project
 
-- Design a **system architecture** that automates on-device AI SDK development using Agentic AI
-- Define an **optimized SDK generation pipeline** considering edge/mobile resource constraints
-- Propose an **autonomous development workflow** based on multi-agent collaboration
+We are designing an **automated system** that uses Agentic AI to handle the full on-device AI SDK development lifecycle. From requirements analysis to code generation, testing, and optimization — our architecture lets AI agents do the heavy lifting.
 
-## Tech Stack
+## 🎯 Project Goals
 
-| Category | Technology |
-|----------|------------|
-| Language | Python |
-| AI Agent Framework | TBD |
-| Target Platform | On-device (Edge / Mobile) |
-| Documentation | Markdown, Draw.io |
+- 📐 Design a system architecture for AI-driven SDK development automation
+- ⚡ Define an optimized pipeline for edge/mobile-targeted SDK generation
+- 🤝 Propose a multi-agent collaboration workflow for autonomous development
 
-## Team
+---
 
+##  Documentation
+
+### 📋 Project Management
+- [[Project Charter]]
+- [[Team Roles & Responsibilities]]
+- [[Meeting Notes]]
+- [[Timeline & Milestones]]
+
+### 🏛️ Architecture & Design
+- [[System Architecture Overview]]
+- [[Agent Design & Responsibilities]]
+- [[Pipeline Specification]]
+- [[API & Interface Design]]
+- [[Technology Selection]]
+
+### 📝 Requirements
+- [[Functional Requirements]]
+- [[Non-Functional Requirements]]
+- [[Use Cases & Scenarios]]
+
+### 🔬 Research & References
+- [[Agentic AI Literature Review]]
+- [[On-Device AI Constraints & Considerations]]
+- [[Competitor & Related Work Analysis]]
+
+### 🚀 Prototype
+- [[PoC Implementation Guide]]
+- [[Demo Scenarios]]
+- [[Test Results & Evaluation]]
+
+---
+
+## 👥 Team 17
+
+| Member | Role | Contact |
+|--------|------|---------|
 | Name | Role |
 |------|------|
 | 전형준 | 멘토 |
@@ -31,23 +62,28 @@ This repository is a **Team Project** for the SW Architect training course. The 
 | 양승준 | 멘티 |
 | 경태현 | 멘티 |
 
-## Timeline
 
-| Phase | Period | Deliverable |
-|-------|--------|-------------|
-| Requirements Analysis | TBD | Requirements Specification |
-| Architecture Design | TBD | System Design Document |
-| Prototyping | TBD | PoC Implementation |
-| Validation & Presentation | TBD | Final Presentation |
+---
 
-## Getting Started
+## 📅 Schedule
+
+| Phase | Period | Status |
+|-------|--------|--------|
+| 📋 Requirements Analysis | TBD | 🔲 Not Started |
+| 📐 Architecture Design | TBD | 🔲 Not Started |
+| 🛠️ Prototyping | TBD | 🔲 Not Started |
+| 🎤 Final Presentation | TBD | 🔲 Not Started |
+
+---
+
+## 🛠️ Getting Started
 
 ```bash
 git clone https://github.com/agentic-sdk/architect.git
 cd architect
 ```
 
-## Documentation
+## 📚 Documentation
 
 For detailed project documentation, please refer to the [Wiki](https://github.com/agentic-sdk/architect/wiki).
 
